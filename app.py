@@ -22,8 +22,8 @@ local_css("style/style.css")
 lottie_coding1 = load_lottieurl("https://lottie.host/9dfab803-6079-4f53-ae19-cf34688b122e/C3d8dKQ8Tp.json")
 lottie_coding = load_lottieurl("https://lottie.host/25d15a88-76ad-4bfa-9dc0-14a3d3b5cf8a/bowbEeSo3j.json")
 
-img_contact_form = Image.open("C:/Users/PRITAM/Desktop/webpage/images/img 1.jpg")
-img_lottie_animation = Image.open("C:/Users/PRITAM/Desktop/webpage/images/img 2.jpg")
+img_contact_form = Image.open("My-First-Project/images/img 1.jpg")
+img_lottie_animation = Image.open("My-First-Project/images/img 2.jpg")
 
 with st. container():
     st.subheader("Hi, I am Alok:wave:")
